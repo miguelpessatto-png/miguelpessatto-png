@@ -51,4 +51,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-miguel.pessatto@escola.pr.gov.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:E-MAIL)
-[![GitHub](https://img.shields.io/github/followers/https://github.com/miguelpessatto-png=follow&style=social)](https://github.com/miguelpessatto-png)
+[![GitHub](https://img.shields.io/github/followers/miguelpessatto-png?label=follow&style=social)](https://github.com/miguelpessatto-png)
